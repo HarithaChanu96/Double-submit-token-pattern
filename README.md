@@ -9,3 +9,5 @@ Preventing Cross-Site Request Forgery (CSRF) using synchronizer token pattern an
 
 ## user - Haritha
 ## pw - haritha123
+
+Blog Post : https://medium.com/@harithachanu96/double-submit-cookies-pattern-9d28a6bfdcfe
